@@ -1,8 +1,6 @@
-<h2 align="left">Olá 👋! Sou o Guilherme</h2>
-<p>Graduando de Engenharia de Software pela Universidade Católica de Brasília</p>
+<h2 align="left">Hi there 👋! I'm Guilherme</h2>
+<p>Undergraduate student in Software Engineering at the Universidade Católica de Brasília</p>
 <br>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GBarbosa06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
