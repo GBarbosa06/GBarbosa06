@@ -46,6 +46,7 @@
   <p><a href="https://gbarbosa06.github.io/site-cardiologista/site" target="_blank">Site Cardiologista</a></p>
   <p><a href="https://gbarbosa06.github.io/pizzaria-barros/" target="_blank">Site Pizzaria Barros</a></p>
   <p><a href="https://gbarbosa06.github.io/JavaScript/gastoCartao/" target="_blank">Gasto de Cartão</a></p>
+  <p><a href="https://gbarbosa06.github.io/gerador-de-senhas/">Gerador de Senhas</a></p>
   <p><a href="https://gbarbosa06.github.io/exercicios-guanabara/media-queries/mq6-projeto-login" target="_blank">Projeto tela de login</a></p>    
 </div>
 
