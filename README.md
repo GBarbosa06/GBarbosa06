@@ -44,8 +44,8 @@
 <div>
   <h3>Principais Projetos:</h3>
   <p><a href="https://gbarbosa06.github.io/site-cardiologista/site" target="_blank">Site Cardiologista</a></p>
-  <p><a href="https://gbarbosa06.github.io/pizzaria-barros/" target="_blank">Site Pizzaria Barros</a></p>
   <p><a href="https://loginpage-tan-omega.vercel.app" target="_blank">Pagina de login</a></p>
+  <p><a href="https://gbarbosa06.github.io/pizzaria-barros/" target="_blank">Site Pizzaria Barros</a></p>
   <p><a href="https://gbarbosa06.github.io/JavaScript/gastoCartao/" target="_blank">Gasto de Cartão</a></p>
   <p><a href="https://gbarbosa06.github.io/gerador-de-senhas/" target="_blank">Gerador de Senhas</a></p>
 </div>
