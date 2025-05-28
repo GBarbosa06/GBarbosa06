@@ -39,7 +39,7 @@
 
 <div>
   <h3>Principais Projetos:</h3>
-  <p><a href="https://github.com/GBarbosa06/litspace" target="_blank">LitSpace</a> - Em desenvolvimento</p>
+  <p><a href="https://litspace.vercel.app" target="_blank">LitSpace</a></p>
   <p><a href="https://gbarbosa06.github.io/gerador-de-senhas/" target="_blank">Gerador de Senhas</a></p>
   <p><a href="https://gbarbosa06.github.io/JavaScript/gastoCartao/" target="_blank">Gasto de Cartão</a></p>
   <p><a href="https://github.com/GBarbosa06/miniblog" target="_blank">MiniBlog</a></p>
